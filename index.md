@@ -1,5 +1,5 @@
 # TOY STROY WITH REACT NATIVE
-# FOR STUDY
+FOR STUDY
 
 ## Welcome to GitHub Pages
 
